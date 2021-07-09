@@ -42,9 +42,15 @@ def sub_balance(unique_id,balance):
     else:
         print("Veuillez rentrer une réponse correcte")
         sub_balance(unique_id,balance)
+    send()
 
 
-            
+def send():
+    pass
+
+
+
+
 
 
 
